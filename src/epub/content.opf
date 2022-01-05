@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-01-05T03:31:26Z</dc:date>
+		<meta property="dcterms:modified">2022-01-05T03:31:26Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -20,7 +20,6 @@
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
-		<meta property="schema:accessibilityFeature">longDescription</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -43,8 +42,9 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">Emma Goldman recounts her experiences living in the early Soviet Union.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In 1919, at the height of the anti-leftist Palmer Raids conducted by the Wilson administration, the anarchist activist and writer &lt;a href="https://standardebooks.org/ebooks/emma-goldman"&gt;Emma Goldman&lt;/a&gt; was deported to the nascent Soviet Union. Despite initial plans to fight the deportation order in court, Goldman eventually acquiesced in order to take part in the new revolutionary Russia herself. While initially supportive of the Bolsheviks, with some reservations, Goldman’s firsthand experiences with Bolshevik oppression and corruption prompted her titular disillusionment and eventual emigration to Germany. In &lt;i&gt;My Disillusionment in Russia&lt;/i&gt;, Goldman records her travels throughout Russia as part of a revolutionary museum commission and her interactions with a variety of political and literary figures like Vladimir Lenin, Maxim Gorky, &lt;a href="https://standardebooks.org/ebooks/john-reed"&gt;John Reed&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/peter-kropotkin"&gt;Peter Kropotkin&lt;/a&gt;. Goldman concludes her account with a critique of the Bolshevik ideology in which she asserts that revolutionary change in institutions cannot take place without corresponding changes in values.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;My Disillusionment in Russia&lt;/i&gt; had a troubled publication history, since the first American printing in 1923 omitted the last twelve chapters of what was supposed to be a thirty-three chapter book. (Somehow, the last chapters failed to reach the publisher, who did not suspect the book to be incomplete.) The situation was remedied with the publication of the remaining chapters in 1924 as part of a volume titled &lt;i&gt;My Further Disillusionment in Russia&lt;/i&gt;. This Standard Ebooks production compiles all of the chapters of the original manuscript (i.e., both &lt;i&gt;My Disillusionment in Russia&lt;/i&gt; and &lt;i&gt;My Further Disillusionment in Russia&lt;/i&gt;) into a single volume.&lt;/p&gt;
+			&lt;p&gt;In 1919, at the height of the anti-leftist Palmer Raids conducted by the Wilson administration, the anarchist activist and writer &lt;a href="https://standardebooks.org/ebooks/emma-goldman"&gt;Emma Goldman&lt;/a&gt; was deported to the nascent Soviet Union. Despite initial plans to fight the deportation order in court, Goldman eventually acquiesced in order to take part in the new revolutionary Russia herself. While initially supportive of the Bolsheviks, with some reservations, Goldman’s firsthand experiences with Bolshevik oppression and corruption prompted her titular disillusionment and eventual emigration to Germany.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;My Disillusionment in Russia&lt;/i&gt;, Goldman records her travels throughout Russia as part of a revolutionary museum commission, and her interactions with a variety of political and literary figures like Vladimir Lenin, Maxim Gorky, &lt;a href="https://standardebooks.org/ebooks/john-reed"&gt;John Reed&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/peter-kropotkin"&gt;Peter Kropotkin&lt;/a&gt;. Goldman concludes her account with a critique of the Bolshevik ideology in which she asserts that revolutionary change in institutions cannot take place without corresponding changes in values.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;My Disillusionment in Russia&lt;/i&gt; had a troubled publication history, since the first American printing in 1923 omitted the last twelve chapters of what was supposed to be a thirty-three chapter book. (Somehow, the last chapters failed to reach the publisher, who did not suspect the book to be incomplete.) The situation was remedied with the publication of the remaining chapters in 1924 as part of a volume titled &lt;i&gt;My Further Disillusionment in Russia&lt;/i&gt;. This Standard Ebooks production compiles both volumes into a single volume, like the original manuscript.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/60315</dc:source>
@@ -52,8 +52,8 @@
 		<dc:source>https://theanarchistlibrary.org/library/emma-goldman-my-further-disillusionment-in-russia</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.58226</dc:source>
 		<meta property="se:production-notes">This production uses the American printings for the transcription and scans, but takes its structural cues from the thirty-three chapter British printing (https://catalog.hathitrust.org/Record/006048096).</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">86353</meta>
+		<meta property="se:reading-ease.flesch">52.6</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/My_Disillusionment_in_Russia</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emma-goldman_my-disillusionment-in-russia</meta>
 		<dc:creator id="author">Emma Goldman</dc:creator>
@@ -82,7 +82,6 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">Dana Ward</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Ward, Dana</meta>
-		<meta property="se:url.homepage" refines="#transcriber-4">http://dwardmac.pitzer.edu</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
@@ -93,6 +92,11 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Matt Chan</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Chan, Matt</meta>
+		<meta property="se:name.person.full-name" refines="#producer-2">Matthew Yunho Chan</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/thewchan</meta>
+		<meta property="se:role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
