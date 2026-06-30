@@ -1,0 +1,1 @@
+This production uses the American printings for the transcription and scans, but takes its structural cues from the thirty-three chapter British printing (https://catalog.hathitrust.org/Record/006048096).
